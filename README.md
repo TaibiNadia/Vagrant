@@ -6,6 +6,7 @@ Tout d'abord, assurez-vous que VirtualBox (dernière version 6.1.12) est install
 Après cela, téléchargez et installez le package Vagrant (dernière version 2.2.9) approprié à votre OS.
 
 Vagrant se base sur un fichier "Vagrantfile" pour orchestrer le déploiement des environnements virtuels de développement.
-Le fichier 
+
+
 
 
